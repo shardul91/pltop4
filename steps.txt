@@ -1,0 +1,7 @@
+1) Created a folder Premier-League-Top-4
+2) Created a json file with data in the form of a json array
+3) Make sure no json files/node_modules folder are present in the path where your current project is present:
+	a. npm install express
+	b. npm install mongodb
+4) mongoimport -d Premier_League_db -c Premier_League_Standings --type json --file monthly-points.json --jsonArray
+	where -d=database, -c=collection

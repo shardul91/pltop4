@@ -1,0 +1,28 @@
+
+
+    [
+      {
+        "month": "August", "Leicester City" : 12, "Tottenham" : 3, "Arsenal" : 7, "Manchester City" : 12
+      },
+      {
+        "month": "September", "Leicester City" : 12, "Tottenham" : 12, "Arsenal" : 13, "Manchester City" : 15
+      },
+      {
+        "month": "October", "Leicester City" : 22, "Tottenham" : 17, "Arsenal" : 25, "Manchester City" : 25
+      },
+      {
+        "month": "November", "Leicester City" : 29, "Tottenham" : 25, "Arsenal" : 27, "Manchester City" : 29
+      },
+      {
+        "month": "December", "Leicester City" : 39, "Tottenham" : 35, "Arsenal" : 39, "Manchester City" : 36
+      },
+      {
+        "month": "January", "Leicester City" : 47, "Tottenham" : 42, "Arsenal" : 44, "Manchester City" : 44
+      },
+      {
+        "month": "February", "Leicester City" : 56, "Tottenham" : 54, "Arsenal" : 51, "Manchester City" : 47
+      },
+      {
+        "month": "March", "Leicester City" : 63, "Tottenham" : 58, "Arsenal" : 52, "Manchester City" : 51
+      }
+    ]
